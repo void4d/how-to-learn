@@ -1,0 +1,9 @@
+.section-subtitle {
+  z-index: 2;
+  width: 60%;
+  margin: 0;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+}
